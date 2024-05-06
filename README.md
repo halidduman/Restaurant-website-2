@@ -49,5 +49,10 @@ Sitemiz, her cihazda mükemmel görüntüleme ve kullanım deneyimi sunar. Sayfa
 
 ![image](images/p-2.png)
 
+## Kullanılan Teknolojiler
+
+- html
+- css
+- javascript
 ---
 Proje Ödevimi İncelediğiniz İçin Teşekkürler.
